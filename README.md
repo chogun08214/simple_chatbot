@@ -17,7 +17,7 @@ LangChain과 OpenAI·Hugging Face 모델을 이용해 **간단한 질의응답 �
 
 | 파일 | 내용 |
 |---|---|
-| `5_1_간단한_챗봇_만들기.ipynb` | **첫 챗봇 실습** — Streamlit 입력창 + `gpt-4-0314`로 질문에 답하는 최소 구성 챗봇 |
+| `간단한_챗봇_만들기.ipynb` | **첫 챗봇 실습** — Streamlit 입력창 + `gpt-4-0314`로 질문에 답하는 최소 구성 챗봇 |
 | `LLM1.ipynb` | LangChain 기본기 — 프롬프트 템플릿, OpenAI와 Hugging Face 모델 답변 비교(ModelLaboratory), PDF 로딩 후 FAISS 임베딩, LLMChain·SequentialChain(번역 → 요약), 대화 메모리(ConversationChain), Wikipedia·계산 도구를 쓰는 Agent |
 | `LLM2.ipynb` | **간단한 챗봇** — Streamlit 입력창에 질문하면 `gpt-4o-mini`가 답변 |
 | `LLM3.ipynb` | **문서 기반 질의응답** — 텍스트를 청크로 나눠 Chroma에 저장하고, 유사 문서를 찾아 답변(load_qa_chain) |
