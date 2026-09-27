@@ -1,5 +1,5 @@
 LangChain 기반 LLM 챗봇 실습
-LangChain과 OpenAI·Hugging Face 모델을 이용해 간단한 질의응답 챗봇 → PDF 요약 웹사이트 → PDF 기반 질의응답(RAG) 챗봇 → 대화형 PDF 챗봇까지 단계적으로 만들어 본 실습 모음입니다. 웹 화면은 Streamlit으로 구성했습니다. (4학년 모바일 프로그래밍 실습 수업)
+LangChain과 OpenAI·Hugging Face 모델을 이용해 간단한 질의응답 챗봇 → PDF 요약 웹사이트 → PDF 기반 질의응답(RAG) 챗봇 → 대화형 PDF 챗봇까지 단계적으로 만들어 본 실습 모음입니다. 웹 화면은 Streamlit으로 구성했습니다. 
 기술 스택
 분류	사용 기술
 LLM 프레임워크	LangChain (PromptTemplate, LLMChain, SequentialChain, ConversationChain, Agent)
